@@ -1,4 +1,4 @@
-require pry
+require 'pry'
 
 def update_status
    epic_tragedy = {
